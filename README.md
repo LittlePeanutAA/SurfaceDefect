@@ -9,6 +9,6 @@ Because this is an out-of-distribution problem, unsupervised learning methods ar
 
 Model PaDiM in Anomalib achieves 99% accuracy and speeds around 100 ms per image.
 
-![](results/test_1.png)
-![](results/test_2.png)
-![](results/test_3.png)
+![](result/test_1.png)
+![](result/test_2.png)
+![](result/test_3.png)
